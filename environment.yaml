@@ -1,0 +1,21 @@
+name: tracking_env
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11.*
+  - pandas=2.2.*
+  - numpy=2.1.*
+  - geopandas=1.0.*
+  - rasterio=1.4.*
+  - shapely=2.0.*
+  - scikit-learn=1.6.*
+  - xgboost=2.1.*
+  - shap=0.47.*
+  - matplotlib=3.10.*
+  - seaborn=0.13.*
+  - ipykernel=6.29.*
+  - tqdm=4.66.*
+  - pyproj=3.6.*
+  - contextily
