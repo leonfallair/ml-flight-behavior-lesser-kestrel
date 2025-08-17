@@ -48,4 +48,4 @@ This project uses data from the Movebank:
 
 ## References
 
-* Bustamante, J. (2022). (EBD) Lesser Kestrel (Falco naumanni) Senegal, MERCURIO-SUMHAL. Movebank Data Repository. Available: https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study2398637362. Licensed under CC BY-NC.
+* Bustamante, J. (2025). (EBD) Lesser Kestrel (Falco naumanni) Senegal, MERCURIO-SUMHAL. Movebank Data Repository. Available: https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study2398637362. Licensed under CC BY-NC.

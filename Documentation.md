@@ -39,7 +39,7 @@ This Documentation outlines the Methodology and Script Documentation for the mac
 
   Good classification is crucial, as these labels will be the target variables. Here, a simple differentiation based on ground-speed (km/h) was chosen.
   ```
-  def classify_behavior_simple(row):
+  def classify_flight_behavior(row):
     if row['ground-speed'] < 3:
         return 0  # resting
     elif 3 <= row['ground-speed'] < 15:
